@@ -1,7 +1,3 @@
-=====================================
- To: Jinjia1127 (202-SSS/DESKTOP-8PULH2A/10.10.13.48/Alex-<439e44e8435072a4>)
-  at Fri Apr 15 15:28:06 2022
--------------------------------------
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
